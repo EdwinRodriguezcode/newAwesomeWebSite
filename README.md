@@ -1,0 +1,2 @@
+# newAwesomeWebSite
+new wordpress theme
